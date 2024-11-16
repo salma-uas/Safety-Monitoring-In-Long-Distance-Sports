@@ -1,3 +1,6 @@
+
+# Safety Monitoring System in Long-Distance Sports
+
 A Safety Monitoring System for long-distance sports (e.g., marathons, snow skating) using smartphone accelerometer data to recognize human activities like walking, running, sitting, and falling in real-time. The system leverages a Long Short-Term Memory (LSTM) model for activity classification and provides emergency notifications for unusual events, ensuring timely responses in critical situations."
 
 * Features: 
